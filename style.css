@@ -1,0 +1,56 @@
+.container {
+  text-align: center;
+}
+
+div, iframe {
+  text-align: center;
+  margin: auto;
+}
+
+h2 { font-family: "Helvetica Neue",sans-serif;
+}
+
+h2
+{
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    color: black;
+    font-size: 9pt;
+    background-color: #2b2b2b2b;
+}
+
+p {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+    font-size:40px;
+}
+
+a{
+  font-family: 'Oswald', sans-serif;
+  font-weight: 400;
+  font-size:20px;
+  margin: 6px;
+  color: black;
+}
+
+a:link, a:visited {
+  background-color: #a6a4a4;
+  color: black;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 9px;
+}
+
+a:hover {
+  background-color: #eb837a;
+}
+
+a:active {
+  #e83323
+}
+
+.holds-the-iframe {
+  background:url(spin2.gif) center center no-repeat;
+
+}
