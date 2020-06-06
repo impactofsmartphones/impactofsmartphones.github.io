@@ -2,6 +2,10 @@
   text-align: center;
 }
 
+.current {
+    background-color: #eb837a;
+}
+
 div, iframe {
   text-align: center;
   margin: auto;
@@ -46,7 +50,7 @@ a:hover {
 }
 
 a:active {
-  #e83323
+  background-color: #eb837a;
 }
 
 .holds-the-iframe {
